@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2f949f56577f91e44b00075a45349767
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myClip: {fileID: 7400000, guid: 2484116a5ef21bc448092f195c3b596f, type: 2}
+  - OpenPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
